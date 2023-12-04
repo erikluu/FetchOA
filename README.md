@@ -1,6 +1,8 @@
 # Fetch ML OA
 
-- I am new to creating images myself with Docker. Hopefully I did this right.
+I am new to creating images myself with Docker. Hopefully I did this right.   
+
+Thank you for the opportunity!    
 
 1. Download repo
 2. Run `docker build -t myapp .`
