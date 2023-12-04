@@ -1,6 +1,6 @@
 # Fetch ML OA
 
-I am new to creating images myself with Docker. Hopefully I did this right.   
+I am new to creating images with Docker myself. Hopefully I did this right.   
 
 Thank you for the opportunity!    
 
